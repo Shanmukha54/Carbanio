@@ -1,0 +1,42 @@
+nav img {
+	max-width: 150px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+	color: #634396;
+	background-color: #fff;
+	border: 2px solid #634396;
+}
+
+.nav-pills .nav-item {
+	background: #f2f2f6;
+}
+
+.img2 img {
+	max-width: 150px;
+}
+
+.bg-card {
+	background: #f2f2f6;
+	padding: 6px 20px;
+}
+
+.bg-card span {
+	font-size: 20px;
+}
+
+fieldset {
+	background-color: #CCC;
+	max-width: 500px;
+	padding: 16px;
+}
+
+.legend1 {
+	margin-bottom: 0px;
+	margin-left: 16px;
+}
+
+footer img {
+	width: 25px;
+}
